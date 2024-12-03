@@ -10,3 +10,6 @@ AI代码编辑器，后端代码AI生成，代替了GitHub Copilot，可以在�
 - **CMD+K** 用于AI代码生成：不联网，将选中的代码发送给AI，AI生成代码。  
 - **CMD+L** 用于AI代码询问：联网，将本文件发送并询问AI问题，AI回答问题并生成代码。  
 - **CMD+I** 用于AI项目询问或生成：不联网，Cursor最强功能，Compose能力比CMD+L更强大，可以直接调整项目和生成后端架构。
+
+## [Figma](https://www.figma.com/)
+AI生成设计图，用于产品经理。

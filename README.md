@@ -16,3 +16,6 @@ AI生成设计图，用于产品经理。
 
 ## [Dora](https://www.dora.run/)
 AI生成3D动画网站
+
+## [Mgx](https://mgx.dev/)
+AI全栈开发，分为5个ai开发

@@ -19,3 +19,5 @@ AI生成3D动画网站
 
 ## [Mgx](https://mgx.dev/)
 AI全栈开发，分为5个ai开发
+
+Replit

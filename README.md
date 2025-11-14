@@ -25,3 +25,6 @@ AI编程助手，提供云端编程平台
 
 ## [Lovable](https://lovable.dev/)
 AI自动生成完整的网站，包含前后端代码
+
+## [Apify]([https://lovable.dev/](https://apify.com/))
+AI爬取网站内容

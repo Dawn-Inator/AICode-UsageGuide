@@ -1,30 +1,37 @@
 # AICode-UsageGuide
-## [Bolt](https://bolt.new/)  
-前端项目生成的AI工具，可以直接生成项目的架构，并且在线部署预览。
 
-## [v0 chat](https://v0.dev/)  
-前端组件生成的AI工具，可以生成组件的代码，在线预览组件样式。
+## 原生 AI IDE
+*把编辑器（基于 VS Code）重写，让 AI 深度理解整个项目的文件和上下文。这是目前体验最好的。*
 
-## [Cursor](https://www.cursor.com/)  
-AI代码编辑器，后端代码AI生成，代替了GitHub Copilot，可以在线编辑代码，并且有AI辅助。  
-- **CMD+K** 用于AI代码生成：不联网，将选中的代码发送给AI，AI生成代码。  
-- **CMD+L** 用于AI代码询问：联网，将本文件发送并询问AI问题，AI回答问题并生成代码。  
-- **CMD+I** 用于AI项目询问或生成：不联网，Cursor最强功能，Compose能力比CMD+L更强大，可以直接调整项目和生成后端架构。
+### [Cursor](https://www.cursor.com/)  
+AI代码编辑器，后端代码AI生成，代替了GitHub Copilot，可以在线编辑代码，并且有AI辅助。
 
-## [Figma](https://www.figma.com/)
-AI生成设计图，用于产品经理。
+## 网页端全栈生成器
+*不用环境配置，直接在网页对话框输入需求，就能生成一个完整的、可运行的全栈 Web 应用。*
 
-## [Dora](https://www.dora.run/)
+### [Bolt.new](https://bolt.new/)  
+浏览器内运行全栈环境，一句话生成 React/Next.js 应用，支持安装 npm 包，体验非常丝滑。
+
+### [v0 chat](https://v0.dev/)  
+专业生成 UI 组件（React + Tailwind），现在也有全栈生成能力。  
+
+### [Dora](https://www.dora.run/)
 AI生成3D动画网站
 
-## [Mgx](https://mgx.dev/)
+### [Mgx](https://mgx.dev/)
 AI全栈开发，分为5个ai开发
 
-## [Replit](https://replit.com/)
-AI编程助手，提供云端编程平台
+### [Replit](https://replit.com/)
+Replit 平台内的智能体，可以从零开始构建、部署应用。
 
-## [Lovable](https://lovable.dev/)
-AI自动生成完整的网站，包含前后端代码
+### [Lovable](https://lovable.dev/)
+类似 Bolt，但更侧重 UI/UX 的美观度，生成的界面非常现代化
 
-## [Apify]([https://lovable.dev/](https://apify.com/))
+## AI辅助工具
+
+### [Apify](https://apify.com/)
 AI爬取网站内容
+
+### [Figma](https://www.figma.com/)
+AI生成设计图，用于产品经理。
+
